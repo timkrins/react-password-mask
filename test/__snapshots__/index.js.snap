@@ -10,6 +10,7 @@ exports[`<PasswordMask /> renders password mask 1`] = `
   }
 >
   <input
+    autoComplete={undefined}
     autoFocus={true}
     className=""
     disabled={undefined}
@@ -93,6 +94,7 @@ exports[`<PasswordMask /> renders password mask without any styles 1`] = `
   style={Object {}}
 >
   <input
+    autoComplete={undefined}
     autoFocus={undefined}
     className=""
     disabled={undefined}
